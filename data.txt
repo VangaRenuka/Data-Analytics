@@ -1,0 +1,394 @@
+Analytical thinking:IDentifiny and defining a problem and then solvin it by using data in an organized,step-by-step manner
+1)Visualization:the graphical representatin of the information
+2)Statergy:
+3)Probelm-orientation:
+4)Correlation:
+5)Big-Picture and detail-oriented thinking
+
+Gap-Analysis: A method for examining and evaluating how a  process works currently in order to get where ou want to be in futur
+
+
+Steps of data analysis:
+1) ask
+2) Prepare
+3) Process
+4) Analyze
+5) Share
+6) act
+
+
+Formula: A set of instructions that performs a specific calcualtion using the data ina spreadsheet 
+
+Function : A preset command that automatically performs a specific process or taks using the data in a spreadsheet
+
+
+
+Query Language : A computer programming languages that allows you to retrieve and manipulate data  from a database
+Data BAse: A collection of data stored in a computer system
+
+Data life cycle:
+1) Plan
+2) Capture
+3) Manage
+4) Analyze
+5) Archive
+6) destroy
+
+Attribut: A characteristic or quality of data used to label a column in a table
+Observation :  All of the attributes for somehting contained in a row of a data table
+
+SMART Techniques
+
+Data-inspired decision-making : explore differnet data sources to find out what they have in common
+
+Quantitative data: Specific and objective measures of numerical facts
+Qualitative data : Subjective or explanatory measures of qualities and characteristics
+
+Report : Static collection of data given to stakeholders periodically
+
+Pivot table : Data summarization tool is used in data processing,Pivot tables are used to summarize, sort ,reorganize
+,grop,count,total or average data stored in database
+
+ Metric : Single,quantifiable type of data that can be used for measurement
+=> Metrics can be used to help calculate customer rentention rates,or company ability to keep its customers
+over time
+
+mertics goal: A measurable goal set by a company and evaluated using metrics
+Cell reference : A cell or a range of cells in a worksheet that can be used in a formula
+
+# ERRORS:
+1) #N/A = Data in a formula canot be found by the spreadsheet
+2) NAme : A formula or function name isnot understand
+3) #Num : A formula or function calculation canot be performed as specified
+4) A general error that could indicate a problem with a formula or referenced cells
+5) #REF!: A fromula is referencing a cell that is no longer valid or had been deleted
+
+
+Function: A preset command that automaticallyperforms a specific process or task using the data
+
+SCOPE OF WORK: An agreed-upon outline of the work that you r going t perform on a project
+
+
+
+Types of DATA BAIS :
+1)Sampling bias
+2) Observer bias
+3) Interpretation bias
+4)confirmation bais 
+
+Ethics: Well founded of right and wrong that prescribe what humans ought to do, usually in
+terms of rights, obligations,benifits to society, fairness, or specific virtues
+Data Ethics = Well founded standards of right and worng that dedicated how dat is collected ,
+shared and uesd
+
+Aspects of data ethics :
+1) Ownership
+2) Transaction transperancy
+3) Consent
+4) Currency
+5) PRivacy
+6) Openness
+
+OwnerShip : Individulas own the raw data they provide abd they have primary control over 
+its usage , hw uts processde and how its shared
+
+Transcation transparency : All data-processing activities andagorithms shoulb be completely
+explanianble an understood by the indiviudal who provides their data
+
+consent : An individual right to know explicit details about how and why their data will be
+used bdefoere agreeing tp provide it
+
+Currency : Individuals should be aware of fiancial trnascation resulting from the use 
+of their personal data and the scale of these transactions
+
+Privacy : Preserving a data subjects infromation and activity any time a data 
+transcation occurs
+
+Data interoperability: the abiity of data ssytms and services to openly connect and share data
+
+
+Relational Database: A database that contains a series of related tables that can be connected via their relationships
+Primary key: an identifier that refernce a column in which each value is unique
+Foreign Key: A field within a table that is a primary key in another table
+
+=> Metadata is used in database management to help data analyts interpret the contents of the data 
+within the database
+
+Three types of metadata :
+1) Descriptive : Metadata that descrive a peice of data and can be used to identify it at a later point in time
+2) Structural metadata: Metadata that indicates how a piece of data is organized and whether it is 
+part of one , or more than one , data collection
+3) Administrative metadata: Metadata that indicates the technical sourece of a digital assets
+
+Data governance : a process to ensure the formal management of a company data assets
+
+
+Data Security :Protecting data  from unauthorized access or corruptpion by adopting safety measures
+
+Data Integrity : The accuracy,completeness,consistency, and truthwothiness of data througthout its lifecycle
+
+Data Replication : the process of stroing data in mutltiple locations
+Data Transfer : the process of copying data from a storange device to memory , or from one 
+computer to another
+Data manipulation : The process of changing data to make it more organzied an deasier to read
+
+Sampling bias : A sampke isnot representativeo of the population as whole
+
+Random Sampling : A way of selecting a sampe from a population so that evry possible type of the sample has an equal chance of being chosen
+Statistical power : the probability of getting a meaningful resutls from a test
+Hypothesis testing : A way to see if a survey or experiment has a meaning ful results
+
+Margin of error : The maximum amount that the sample results are expected to differ from those of the actual population
+
+Accuracy: The degree to which the data conforms to the actual entity being measured or described
+
+Completeness: The degree to which the data contains all desired components or measures
+
+Confidence interval:  A range of values that conveys how likely a statistical estimate reflects the population
+
+Confidence level: The probability that a sample size accurately reflects the greater population
+
+Consistency: The degree to which data is repeatable from different points of entry or collection
+
+Cross-field validation: A process that ensures certain conditions for multiple data fields are satisfied
+
+Data constraints: The criteria that determine whether a piece of a data is clean and valid
+
+Data integrity: The accuracy, completeness, consistency, and trustworthiness of data throughout its life cycle
+
+Data manipulation: The process of changing data to make it more organized and easier to read
+
+Data range: Numerical values that fall between predefined maximum and minimum values
+
+Data replication: The process of storing data in multiple locations
+
+DATEDIF: A spreadsheet function that calculates the number of days, months, or years between two dates
+
+Estimated response rate: The average number of people who typically complete a survey
+
+Hypothesis testing: A process to determine if a survey or experiment has meaningful results
+
+Mandatory: A data value that cannot be left blank or empty
+
+Margin of error: The maximum amount that the sample results are expected to differ from those of the actual population
+
+Random sampling: A way of selecting a sample from a population so that every possible type of the sample has an equal chance of being chosen
+
+Regular expression (RegEx): A rule that says the values in a table must match a prescribed pattern
+
+Clean data: Data that is complete, correct, and relevant to the problem being solved
+
+Compatibility: How well two or more datasets are able to work together
+
+CONCATENATE: A spreadsheet function that joins together two or more text strings
+
+Conditional formatting: A spreadsheet tool that changes how cells appear when values meet specific conditions
+
+Data engineer: A professional who transforms data into a useful format for analysis and gives it a reliable infrastructure
+
+Data mapping: The process of matching fields from one data source to another
+
+Data merging: The process of combining two or more datasets into a single dataset
+
+Data validation: A tool for checking the accuracy and quality of data
+
+Data warehousing specialist: A professional who develops processes and procedures to effectively store and organize data
+
+Delimiter: A character that indicates the beginning or end of a data item
+
+Dirty data: Data that is incomplete, incorrect, or irrelevant to the problem to be solved
+
+Duplicate data: Any record that inadvertently shares data with another record
+
+Field length: A tool for determining how many characters can be keyed into a spreadsheet field
+
+Incomplete data: Data that is missing important fields
+
+Inconsistent data: Data that uses different formats to represent the same thing
+
+Incorrect/inaccurate data: Data that is complete but inaccurate
+
+LEFT: A function that returns a set number of characters from the left side of a text string 
+
+LEN: A function that returns the length of a text string by counting the number of characters it contains
+
+Length: The number of characters in a text string
+
+Merger: An agreement that unites two organizations into a single new one
+
+MID: A function that returns a segment from the middle of a text string
+
+Null: An indication that a value does not exist in a dataset
+
+Outdated data: Any data that has been superseded by newer and more accurate information
+
+Remove duplicates: A spreadsheet tool that automatically searches for and eliminates duplicate entries from a spreadsheet
+
+Split: A function that divides text around a specified character and puts each fragment into a new, separate cell
+
+Substring: A smaller subset of a text string
+
+Text string: A group of characters within a cell, most often composed of letters
+
+TRIM: A function that removes leading, trailing, and repeated spaces in data
+
+Unique: A value that can’t have a duplicate
+
+CAST: A SQL function that converts data from one datatype to another
+
+COALESCE: A SQL function that returns non-null values in a list
+
+CONCAT: A SQL function that adds strings together to create new text strings that can be used as unique keys
+
+DISTINCT: A keyword that is added to a SQL SELECT statement to retrieve only non-duplicate entries
+
+Float: A number that contains a decimal
+
+Substring: A subset of a text string
+
+Typecasting: Converting data from one type to another
+
+Verification : A process to confirm that a data-cleaning effort was well-executed and the 
+resulting data is accurate and reliable
+
+Changelog : A file containing a chronologically ordered list of modifications made to a project
+
+Documentation :  the PRocess of tracking changes, additions, deletions and errors invloved 
+in your data -cleaning effort
+
+CASE: A SQL statement that returns records that meet conditions by including an if/then statement in a query
+
+Changelog: A file containing a chronologically ordered list of modifications made to a project
+
+COUNTA: A spreadsheet function that counts the total number of values within a specified range
+
+Find and replace: A tool that finds a specified search term and replaces it with something else
+
+Verification: A process to confirm that a data-cleaning effort was well executed and the resulting data is accurate and reliable
+
+Sort sheet : all of the data ina spreadseet is soted by the ranking of a ranking sorted column- data acrooos rows is kept otgether
+
+Customized sort order : when you sort data in a spreadsheet using multile conditions
+
+Data aggregation : The process of gathering data from mutlitple  sources in order to cmbine in into a single summarize collection
+
+VLOOLUP : A function that searches for a certain value in column ot return a corresponinf peice of information
+
+Absolute refernce : A refernce that is lockrf so that rows and columns wonnot change whem copied
+
+Absolute reference: A reference within a function that is locked so that rows and columns won’t change if the function is copied
+
+Aggregation: The process of collecting or gathering many separate pieces into a whole
+
+Aliasing: Temporarily naming a table or column in a query to make it easier to read and write
+
+COUNT DISTINCT: A SQL function that only returns the distinct values in a specified range
+
+Data aggregation: The process of gathering data from multiple sources and combining it into a single, summarized collection
+
+INNER JOIN : A SQL function that returns records with matching values in both tables
+
+JOIN: A SQL function that is used to combine rows from two or more tables based on a related column
+
+LEFT JOIN: A SQL function that will return all the records from the left table and only the matching records from the right table
+
+LIMIT: A SQL clause that specifies the maximum number of records returned in a query
+
+MATCH: A spreadsheet function used to locate the position of a specific lookup value
+
+OUTER JOIN: A SQL function that combines RIGHT and LEFT JOIN to return all matching records in both tables
+
+RIGHT JOIN: A SQL function that will return all records from the right table and only the matching records from the left. 
+
+Subquery: A SQL query that is nested inside a larger query
+
+VALUE: A spreadsheet function that converts a text string that represents a number to a numeric value
+Profit Margin :  A percentage that indicates how many cents of profiy has been genrated for each dollar of sale
+Data Validation process: checking and rechecking the quality of the data so that it is complete,accurate, asecure and consistent
+
+Array: A collection of values in spreadsheet cells
+
+Calculated field: A new field within a pivot table that carries out certain calculations based on the values of other fields
+
+Data security: Protecting data from unauthorized access or corruption by adopting safety measures
+
+Data validation process: The process of checking and rechecking the quality of data so that it is complete, accurate, secure and consistent 
+
+GROUP BY: A SQL clause that groups rows that have the same values from a table into summary rows 
+
+Modulo: An operator (%) that returns the remainder when one number is divided by another
+
+Profit margin: A percentage that indicates how many cents of profit has been generated for each dollar of sale
+
+Summary table: A table used to summarize statistical information about data
+
+SUMPRODUCT: A function that multiplies arrays and returns the sum of those products
+
+Temporary table: A database table that is created and exists temporarily on a database server
+
+Underscores: Lines used to underline words and connect text characters
+
+Dashboards : A tool that organize information form multple datasets into one central location for tracking, analysis, and simple visualization
+Dashboard filter : A tool for showing only the data that meets a pecific criteria while hiding the rest
+
+Spotlighting : Scanning through data to quickly indetify the most important insights
+
+Dashboard filter: A tool for showing only the data that meets a specific criteria while hiding the rest
+
+Data blending: A Tableau method that combines data from multiple data sources
+
+Framework: The context a presentation needs to create logical connections that tie back to the business task and metrics
+
+Professional relationship building: Building relationships by meeting people both in person and online (Refer to Networking)
+
+Static data: Data that doesn’t change once it has been recorded
+
+Statistics: The study of how to collect, analyze, summarize, and present data
+
+WITH: A SQL clause that creates a temporary table that can be queried multiple times
+
+==================================================================================================
+R : A programming language frequently used for statistical analysis, visualization and other data analysis
+1) Accesible , opensource , open-centric , 
+2_ reproducing our analysis , processing lots of data m creating data visualization
+
+Functions ( R) : A body f resuable code used to perform secific tasks in R 
+Arguments : Information that a function in R needs in order to run
+Variable : A representation of a value in R that can be stored for use later during programming
+=> A variable name should start with a letter and can also contain numbers and underscores
+Vector ( R) : A group of data elements of the same type stored in a squence in R 
+Pipe( R) : A tool in R for expressing a sequence of muiltle operations , represneted with "%>%"
+Operator : A symbol that names the type of operation or calculation to be performed in formula
+Assignment : used to assign values to variables and vectors
+
+CRAN (Comprehensive R Archive Network ) An online archive with R packages, source code, manuals and documentation
+Tidyverse : a system f packages in R with a common design philosophy for data manipulation , exploration andvisulaization
+
+Dplyr (R) : Offers a conistent set of functions that help us complete some common data maniulation taks
+Factors (R) : Store categorical data in R where the data values are limitedand usually based on afinite group like
+coutnry r year
+Pipe (R) : A tool in R for expressing a sequence of muiltiple operations , represneted with "%>%"
+Nested: In programming describes code that performs a particular funcitonand is contained within code that performs a broder functions
+Nested Funciton that is completely contianed within another function
+
+Benefits of ggplot2 :
+1) Create differnt types of plots
+2) Customize the look and feel of plots
+3 Create high quality visuals
+4) combine data manipulatin and visualization
+
+Aesthetic : A viual property of an object in our plot
+Geom : The geometric object used to represent our data
+Facets : let we display smaller grous, or subsets of our data
+Mapping : MAtching up a specific variable in our dataset with a secific aesthetic
+
+Geom function : Geom_point, geom_bar , geom_line
+facet functions : Facet_wrap(),facet_grid()
+
+Annotate : To add notes to a document or diagram to explain or commnet upon it
+
+Markdowmn : Asyntax for formatting plain test files
+R-Markdwn : a file format for making dynamic documents with RY
+YAML : A language for data that translates it so it's readable
+Code Chunk : code added in an.RMD file
+Delimiter : A character that indicates the beginning or end of a data item
